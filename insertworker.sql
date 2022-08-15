@@ -1,0 +1,11 @@
+insert into Worker values ('1', 'Ruslan')
+insert into Worker values ('2', 'Ben')
+insert into Worker values ('3', 'Noam')
+insert into Worker values ('4', 'Israel')
+insert into Worker values ('5', 'Avi')
+insert into Worker values ('6', 'Vlad')
+insert into Worker values ('7', 'Ohad')
+insert into Worker values ('8', 'Yafit')
+insert into Worker values ('9', 'Diana')
+insert into Worker values ('10', 'Yossi')
+
